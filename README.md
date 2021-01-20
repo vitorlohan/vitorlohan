@@ -1,4 +1,4 @@
-# VITOR LOHAN
+# <a href="https://www.linkedin.com/in/vitor-lohan/">VITOR LOHAN</a>
 
 ## About Me
 Tenho 22 anos e sou developer Atualmente, sou estudante de Ciência da Computação na UNICARIOCA - Centro Universitário Carioca (Rio de Janeiro, RJ). 
