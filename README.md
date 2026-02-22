@@ -61,7 +61,7 @@ Sou desenvolvedor Full Stack com foco em aplicações web modernas e escaláveis
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorlohan&theme=dracula" alt="Stats" />
   </a>
   <a href="https://github.com/vitorlohan">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorlohan&theme=tokyonight" alt="Top Languages by Repo" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorlohan&theme=dracula" alt="Top Languages by Repo" />
   </a>
 </p>
 
