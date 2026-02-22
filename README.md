@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/vitor-lohan/">Vitor Lohan</a> 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | 27 anos | Apaixonado por tecnologia e melhoria contínua</b>
+  <b>Desenvolvedor Full Stack | Apaixonado por tecnologia e melhoria contínua</b>
 </p>
 
 ---
