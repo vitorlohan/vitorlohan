@@ -46,19 +46,19 @@ Sou desenvolvedor Full Stack com foco em aplicações web modernas e escaláveis
 
 <p align="center">
   <a href="https://github.com/vitorlohan">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorlohan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorlohan&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vitorlohan">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorlohan&theme=tokyonight" alt="Profile Details" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorlohan&theme=dracula" alt="Profile Details" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vitorlohan">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorlohan&theme=tokyonight" alt="Stats" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorlohan&theme=dracula" alt="Stats" />
   </a>
   <a href="https://github.com/vitorlohan">
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorlohan&theme=tokyonight" alt="Top Languages by Repo" />
