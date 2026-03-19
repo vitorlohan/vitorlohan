@@ -39,6 +39,7 @@ Sou desenvolvedor Full Stack com foco em aplicações web modernas e escaláveis
 **Observabilidade & Dashboards**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0A1E2C?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
